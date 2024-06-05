@@ -11,7 +11,7 @@
 /*.pri
 /CMakeLists.txt
 /Makefile
-
+.idea/
 
 # avoid checking in MacOS XCode assets
 *.xcworkspace
